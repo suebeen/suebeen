@@ -1,7 +1,7 @@
 <p>
   <a href="https://suebeen.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:1003jamie@gmail.com" target="_blank"><img src="https://img.shields.io/badge/1003jamie@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/clapkong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/clapkong/"/></a>&nbsp
+<!--   <a href="https://www.instagram.com/clapkong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/clapkong/"/></a>&nbsp -->
 </p>
 
 <p>
